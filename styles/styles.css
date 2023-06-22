@@ -9,19 +9,19 @@ body {
     font-family: 'Merriweather', serif;
     align-items: center;
     background-color: #A5D09F;
-    height: 150px;
+    height: 9.4rem;
     text-align:center;
     color: #815636;
     
 }
 
 #about-us{
-    margin-top: 57px;
+    margin-top: 3.5rem;
     
 }
 
 .misionVision{
-    margin: 30px;
+    margin: 1.8rem;
 }
 
 .contenedor-texto{
